@@ -1,0 +1,2 @@
+# Temperance.Hermes
+Rabbitmq

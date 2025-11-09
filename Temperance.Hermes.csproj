@@ -5,7 +5,7 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 
-		<Version>1.0.1</Version>
+		<Version>1.0.2</Version>
 		<Authors>Temperance</Authors>
 		<Company>Temperance</Company>
 		<Description>Shared messaging contracts and client for the Temperance trading system.</Description>

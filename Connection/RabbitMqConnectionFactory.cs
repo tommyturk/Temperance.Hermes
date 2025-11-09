@@ -23,6 +23,7 @@ namespace Temperance.Hermes.Connection
                 Password = config.Password,
             };
 
+            _factory = factory;
             _lazyConnection = new Lazy<Task<IConnection>>(() => CreateConnectionInternalAsync());
         }
        
